@@ -1,7 +1,7 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 ## NAME:PORKODI B
 ## REG NO:212224240114
-## AIM:
+## AIM: 
 Write a Python program using OpenCV that performs the following tasks:
 
 1) Read and Display an Image.  
