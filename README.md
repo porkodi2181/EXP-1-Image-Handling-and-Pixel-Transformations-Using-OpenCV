@@ -31,10 +31,6 @@ Display the original, lower contrast, and higher contrast images.
 ### Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels.
 
-## Program Developed By:
-- **Name:** VENKATANATHAN P R
-- **Register Number:** 212223240173
-
 ### Ex. No. 01
 
 #### 1. Read the image ('city.jpg') using OpenCV imread() as a grayscale image.
